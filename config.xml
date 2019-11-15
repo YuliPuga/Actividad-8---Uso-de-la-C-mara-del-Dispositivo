@@ -11,7 +11,7 @@
       Yulissa Elizabeth Rojas Puga
   </author>
   <content src="index.html" />
-  <plugin name="cordova-camera" spec="~4.1.0" />
+  <plugin name="cordova-plugin-camera" spec="~4.1.0" />
   <plugin name="cordova-plugin-dialogs" spec="~2.0.2" />
   <access origin="*" />
   <allow-intent href="http://*/*" />
