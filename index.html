@@ -19,7 +19,7 @@ navigator.notification.alert("onDeviceReady");
 }
 
 function takePhoto() {
-navigator.camera.getPicture(onCameraSuccess, onCameraError);
+navigator.camera.getPicture(onSuccess, onFail);
 }
 
 function onCameraSuccess(imageURL) {
